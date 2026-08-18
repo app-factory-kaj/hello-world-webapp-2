@@ -1,0 +1,7 @@
+title Hello World Webapp
+
+phase 1
+
+component hello-world-webapp as "Hello World Webapp" web-application [stories: 1]
+
+north -> hello-world-webapp

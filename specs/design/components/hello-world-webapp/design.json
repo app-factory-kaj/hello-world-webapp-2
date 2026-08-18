@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-webapp",
+  "type": "web-application",
+  "version": "0.1.0",
+  "language": "TypeScript",
+  "buildpack": "docker",
+  "appPath": "hello-world-webapp",
+  "entrypoint": "deployment/web-application",
+  "exposure": "internet",
+  "stories": [
+    1
+  ],
+  "dependencies": [],
+  "description": "A single-page public React SPA that renders a static \"Hello, World!\" greeting on load. No sign-in, no navigation, no backend calls, and no dynamic or personalized content — it exists purely as a minimal working baseline.",
+  "skillsPinned": [
+    "wireframes",
+    "react-webapp"
+  ]
+}
