@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-Teams that want to verify a new project scaffold, deployment pipeline, or environment end-to-end need the simplest possible working web page to prove the path from code to a rendered page in a browser. Without a minimal baseline, that verification gets tangled up with unrelated product complexity.
+Teams that want to verify a new project scaffold, deployment pipeline, or environment end-to-end need the simplest possible working web page to prove the path from code to a rendered page in a browser. Without a minimal baseline, that verification gets tangled up with unrelated product complexity. The greeting page must also say it is running on WSO2 Cloud, so the deployment target is visibly confirmed.
 
 ## Solution
 
