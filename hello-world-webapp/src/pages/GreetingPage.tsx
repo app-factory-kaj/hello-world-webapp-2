@@ -7,6 +7,7 @@ export default function GreetingPage() {
       <main>
         <h1>Hello, World!</h1>
         <p>This page is working — no sign-in, no setup, nothing else to do.</p>
+        <p>Running on WSO2 Cloud.</p>
       </main>
     </div>
   );
